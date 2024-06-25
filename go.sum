@@ -1,3 +1,5 @@
+github.com/Necroforger/dgrouter v0.0.0-20200517224846-e66453b957c1 h1:3OHJOlf0r1CVSA1E3Ts4uLWsCnucYndMRjNk4rFiQdE=
+github.com/Necroforger/dgrouter v0.0.0-20200517224846-e66453b957c1/go.mod h1:FdMxPfOp4ppZW2OJjLagSMri7g5k9luvTm7Y3aIxQSc=
 github.com/bwmarrin/discordgo v0.28.1 h1:gXsuo2GBO7NbR6uqmrrBDplPUx2T3nzu775q/Rd1aG4=
 github.com/bwmarrin/discordgo v0.28.1/go.mod h1:NJZpH+1AfhIcyQsPeuBKsUtYrRnjkyu0kIVMCHkZtRY=
 github.com/gorilla/websocket v1.4.2 h1:+/TMaTYc4QFitKJxsQ7Yye35DkWvkdLcvGKqM+x0Ufc=
