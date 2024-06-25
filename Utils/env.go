@@ -1,4 +1,4 @@
-package Confessions
+package utils
 
 import (
 	"log"
